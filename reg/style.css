@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital@1&display=swap');
 
 * {
-    transition: all .1s linear;
+    transition: all .2s linear;
   }
 
 html {
@@ -18,7 +18,7 @@ body {
 }
 
 .container-anketa {
-    padding: 3rem 2rem;
+    padding-top: 2rem;
 }
 .anketa-row {
     display: flex;
